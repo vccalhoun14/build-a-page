@@ -1,0 +1,42 @@
+/***************************
+LAYOUT STYLES
+***************************/
+
+header{
+  background-color: #404040;
+  height: 100px;
+}
+
+h1, h2{
+  margin: 0;
+  padding: 10px 10px 0 0;
+  color: #99ccff;
+  text-align: right;
+}
+
+h2{
+  font-size: 1em;
+
+}
+
+
+.footer-style{
+  text-align: center;
+  clear: both;
+  color: #404040;
+  margin-top: 50px;
+
+}
+
+.l-sidebar{
+  width: 20%;
+  height: 200px;
+  float: left;
+}
+
+.l-gallery{
+  width: 80%;
+  height: 200px;
+  float: right;
+}
+

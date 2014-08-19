@@ -1,0 +1,41 @@
+/***************************
+MODULE STYLES
+***************************/
+
+/***** Header Module *****/
+
+/***** Sidebar Module *****/
+
+.l-sidebar nav{
+  text-align: center;
+
+}
+
+.l-sidebar nav ul{
+  list-style: none;
+}
+
+
+/***** Main Module *****/
+
+.module-gallery{
+  list-style: none;
+}
+
+
+.media .icon{
+  margin: 10px;
+
+}
+
+.media .img {
+
+  }
+
+.media .img img {
+  width:30%;
+  float: left;
+  margin: 10px;
+}
+
+/***** Footer Module *****/
